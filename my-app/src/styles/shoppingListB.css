@@ -1,0 +1,29 @@
+.shopping_ulB{
+    padding-bottom:.1rem;
+}
+.shopping_ulB li{
+    width:49%;
+    margin-right:.01rem;
+    margin-top:.1rem;
+}
+.shopping_ulB li img{
+    width:100%;
+    height:100%;
+    border-radius:.14rem;
+}
+.shopping_ulB li span{
+    color:#f83543;
+}
+.shopping_ulB li span:last-child{
+    text-decoration: line-through;
+    margin-left:.1rem;
+    color:#bbb;
+}
+.shopping_ulB li h3{
+    width:1.39rem;;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+}

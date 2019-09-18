@@ -1,0 +1,56 @@
+.input_box{
+    height:.34rem;;
+    font-size:0;
+    vertical-align: middle;
+    background-color: #fff;
+    padding-top:.06rem;
+    position: fixed;
+    top:0;
+}
+.input_search{
+    width:2.7rem;
+    height:.28rem;
+    font-size:.16rem;
+    color:#aaaaaa;
+    border:none;    
+    text-indent:.32rem;
+    position: relative;
+    border-radius:.06rem;
+    background-color:#f2f3f7;
+}
+.span_img{
+    width:.18rem;
+    height:.18rem;
+    position: absolute;
+    top:.11rem;
+    left:.1rem;
+}
+.span_img img{
+    width:100%;
+    height:100%;
+}
+.top_right{
+    float: right;
+    width:.5rem;
+    height:.18rem;
+    margin-top:.06rem;
+    margin-left:.16rem;
+}
+.top_right_a{
+    display: block;
+    width:.18rem;
+    height:.18rem;
+    float: left;
+}
+.top_right_a a{
+    height:.16rem;
+    font-size:0;
+    float: left;
+}
+.top_right_a img{
+    width:100%;
+    height:100%;
+}
+.top_right_b{
+    margin-left:.1rem;
+}

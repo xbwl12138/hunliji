@@ -1,0 +1,8 @@
+.font_box h1{
+    font-size:.16rem;
+}
+.font_box span{
+    font-size:.16rem;
+    font-weight:400;
+    padding-left:.08rem;
+}

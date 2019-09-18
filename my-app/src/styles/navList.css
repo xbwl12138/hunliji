@@ -1,0 +1,22 @@
+ul{
+    background-color: #fff;
+    overflow: hidden;
+    padding-left:.07rem;
+}
+ul li{
+    float:left;
+    width:20%;
+    font-size:.16rem;
+    margin-top:.24rem;
+}
+ul li a{
+    color:#444444;
+    font-size:.14rem;
+}
+ul li a p{
+    margin-top:.04rem;
+}
+ul li a img{
+    width:.6rem;
+    height:.6rem;
+}

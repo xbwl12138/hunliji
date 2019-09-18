@@ -1,0 +1,30 @@
+.footer_box{
+    width:100%;
+    position: fixed;
+    bottom:0;
+    left:0px;
+}
+.footer_box ul{
+    background-color:#fff;
+    font-size:0;
+    padding-left: 0rem;
+}
+.footer_box li{
+    text-align:center;
+    margin-top:.06rem;
+}
+.footer_box li img{
+    width:.2rem;
+    height:.2rem;
+}
+.footer_box li p{
+    font-size:.14rem;
+    margin-top:0;
+    margin-bottom:0.04rem;;
+}
+.footer_nav_class{
+    color:red;
+}
+.icons-list{
+    font-size:.22rem;
+}

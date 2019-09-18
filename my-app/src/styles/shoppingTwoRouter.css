@@ -1,0 +1,21 @@
+.shoppingB_box{
+    font-size:.16rem;
+    overflow: hidden;
+    padding-bottom:.4rem;
+}
+.shoppingB_box a{
+    font-size:.16rem;
+    color:#000;
+}
+.shoppingB_box .shoppingB_a{
+    font-weight:900;
+    font-size:.18rem;
+}
+.nav_box{
+    white-space: nowrap;
+    overflow: auto;
+    padding:.1rem 0;
+}
+.nav_box a{
+    padding: 0 .08rem;
+}
